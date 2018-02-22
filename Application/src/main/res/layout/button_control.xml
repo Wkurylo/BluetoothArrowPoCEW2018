@@ -41,7 +41,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_margin="20dp"
-        android:background="@drawable/ARROW_Solutions" />
+        android:background="@drawable/arrow_solutions" />
 
     <Button
         android:id="@+id/logo_right"
@@ -51,7 +51,7 @@
         android:layout_alignParentRight="true"
         android:layout_margin="20dp"
         android:layout_centerInParent="true"
-        android:background="@drawable/ADI" />
+        android:background="@drawable/adi" />
 
     <!--<Button-->
     <!--android:layout_width="match_parent"-->
