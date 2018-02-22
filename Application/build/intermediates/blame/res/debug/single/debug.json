@@ -76,12 +76,12 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
@@ -108,12 +108,12 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
@@ -156,12 +156,12 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -172,12 +172,12 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -228,12 +228,12 @@
         "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/layout/listitem_device.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -308,24 +308,28 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi_adi.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xxhdpi/adi.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/res/layout/design_navigation_item_header.xml"
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c6c40bdddc4a0c9182709c7d645ff36/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -384,12 +388,12 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c6c40bdddc4a0c9182709c7d645ff36/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -704,6 +708,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi_adi.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-mdpi/adi.png"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -840,6 +848,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable_circle_button.xml.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable/circle_button.xml"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -912,6 +924,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/res/layout/design_navigation_item_separator.xml"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi_arrow_solutions.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xxhdpi/arrow_solutions.png"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -950,6 +966,10 @@
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi_arrow_solutions.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xhdpi/arrow_solutions.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1224,6 +1244,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi_arrow_solutions.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-mdpi/arrow_solutions.png"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_text_cursor_material.xml"
     },
@@ -1318,6 +1342,10 @@
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi_arrow_solutions.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xxxhdpi/arrow_solutions.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1440,6 +1468,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi_adi.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xxxhdpi/adi.png"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -1548,6 +1580,10 @@
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi_adi.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-hdpi/adi.png"
+    },
+    {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -1638,6 +1674,10 @@
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi_adi.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-xhdpi/adi.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1758,6 +1798,10 @@
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/drawable-hdpi_arrow_solutions.png.flat",
+        "source": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/res/drawable-hdpi/arrow_solutions.png"
     },
     {
         "merged": "/Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",

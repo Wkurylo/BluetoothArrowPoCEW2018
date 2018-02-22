@@ -32,7 +32,7 @@ public class StarterPermissionChecker extends Activity {
             public void run() {
                 checkPermissions();
             }
-        }, 3500);
+        }, 2500);
 
     }
 
