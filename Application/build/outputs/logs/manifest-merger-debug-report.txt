@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:1-70:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/75166b9cc36c3f68f1a17927001af782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c1d40d92c4b835c5ead3176d48447dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f1cc9817e140a4f3ab28687ac2b41c27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fa44916aedb88166ef0e431997d1edae/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/dc3bdac8e773ac92f60dc33fedfe79b6/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/efb5bf90f06d647e21c1f725f3b420e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0b99f47990c0c7654ab64dcdf534daf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f70c1ac6715a61e017dd054f51abbf9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3236e2a7ba96b8fd99649ad3974e653e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0a9c7eba55b662440f7576e5d4b11eb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ba8fef1599c275bceecf74c4fa7b681f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c6c40bdddc4a0c9182709c7d645ff36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d980d66f91619ababbfa70c5662edf0c/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:1-70:12
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:1-70:12
+	package
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:31:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:35:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:37:22-78
+application
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:39:5-68:19
+MERGED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fa44916aedb88166ef0e431997d1edae/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fa44916aedb88166ef0e431997d1edae/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:41:9-41
+	android:icon
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:40:9-41
+	android:theme
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:42:9-56
+activity#com.example.android.bluetoothlegatt.StarterPermissionChecker
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:43:9-51:20
+	android:theme
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:44:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:49:27-74
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:52:9-60:20
+	android:label
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:53:13-47
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:61:9-62:71
+	android:theme
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:61:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:64:9-66:38
+	android:enabled
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:66:13-35
+	android:name
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml:65:13-47
+uses-sdk
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/75166b9cc36c3f68f1a17927001af782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/75166b9cc36c3f68f1a17927001af782/AndroidManifest.xml:20:5-44
+MERGED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c1d40d92c4b835c5ead3176d48447dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/c1d40d92c4b835c5ead3176d48447dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f1cc9817e140a4f3ab28687ac2b41c27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/f1cc9817e140a4f3ab28687ac2b41c27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f28cdf2b1e33d0b7c9492a5d4809906f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fa44916aedb88166ef0e431997d1edae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fa44916aedb88166ef0e431997d1edae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/dc3bdac8e773ac92f60dc33fedfe79b6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/dc3bdac8e773ac92f60dc33fedfe79b6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/efb5bf90f06d647e21c1f725f3b420e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/efb5bf90f06d647e21c1f725f3b420e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0b99f47990c0c7654ab64dcdf534daf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0b99f47990c0c7654ab64dcdf534daf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f70c1ac6715a61e017dd054f51abbf9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f70c1ac6715a61e017dd054f51abbf9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3236e2a7ba96b8fd99649ad3974e653e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3236e2a7ba96b8fd99649ad3974e653e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0a9c7eba55b662440f7576e5d4b11eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0a9c7eba55b662440f7576e5d4b11eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ba8fef1599c275bceecf74c4fa7b681f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ba8fef1599c275bceecf74c4fa7b681f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c6c40bdddc4a0c9182709c7d645ff36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2c6c40bdddc4a0c9182709c7d645ff36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d980d66f91619ababbfa70c5662edf0c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d980d66f91619ababbfa70c5662edf0c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wojtekkurylo/AndroidStudioProjects/BluetoothArrowPoCEW2018/Application/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:4.2.0] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/dexter-4.2.0.aar/c799c789c48ea72ad59abba8b9a355cd/AndroidManifest.xml:28:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/07afe47dc76a01670b06a80bccb23ae6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/dc3bdac8e773ac92f60dc33fedfe79b6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/dc3bdac8e773ac92f60dc33fedfe79b6/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/wojtekkurylo/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bb70c6d1ea434624296e31aa8b1f7d8a/AndroidManifest.xml:26:9-47

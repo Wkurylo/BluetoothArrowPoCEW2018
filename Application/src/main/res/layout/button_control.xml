@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/above"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/device_name"
+        android:textStyle="bold"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_below="@id/above"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Super Cap Demo"
+        android:textStyle="bold"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/circle_button"
+        android:onClick="onClickWrite"
+        android:text="Toggle Input Power"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/logo_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="20dp"
+        android:background="@drawable/ARROW_Solutions" />
+
+    <Button
+        android:id="@+id/logo_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ADI" />
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Read Char"-->
+    <!--android:id="@+id/button"-->
+    <!--android:onClick="onClickRead"-->
+    <!--android:layout_margin="15dp"-->
+    <!--android:padding="20dp"/>-->
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/no_data"-->
+    <!--android:id="@+id/data_value"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:textSize="20sp"/>-->
+
+</RelativeLayout>
